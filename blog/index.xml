@@ -8,22 +8,27 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://generaLra.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>note.1 - jQuery 的起手式</title>
+      <link>https://generaLra.github.io/blog/jquery-first/</link>
+      <pubDate>Wed, 01 Mar 2023 20:43:00 +0800</pubDate>
+      
+      <guid>https://generaLra.github.io/blog/jquery-first/</guid>
+      <description>使用sublime編輯器和插件，
+建議套用jQuery的插件，寫起來比較方便、錯誤率也會降低許多。
+原本我使用VScode編輯器，想省麻煩所以嘗試接續用VScode的jQuery插件，
+但&amp;hellip;..兩者系統似乎相差甚大，最後還是妥協用sublime，
+想等以後都熟悉了再去認識VScode。
+sublime的jQuery起手式寫法：(安裝插件後) 打上 ready
+會跳出</description>
+    </item>
+    
+    <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://generaLra.github.io/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://generaLra.github.io/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://generaLra.github.io/blog/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://generaLra.github.io/blog/test/</guid>
-      <description>hello world
-我是標題 </description>
     </item>
     
   </channel>

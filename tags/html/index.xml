@@ -6,7 +6,22 @@
     <description>Recent content in HTML on Liva | general R.A 的紀錄簿</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://generaLra.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 20:43:00 +0800</lastBuildDate><atom:link href="https://generaLra.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>note.1 - jQuery 的起手式</title>
+      <link>https://generaLra.github.io/blog/jquery-first/</link>
+      <pubDate>Wed, 01 Mar 2023 20:43:00 +0800</pubDate>
+      
+      <guid>https://generaLra.github.io/blog/jquery-first/</guid>
+      <description>使用sublime編輯器和插件，
+建議套用jQuery的插件，寫起來比較方便、錯誤率也會降低許多。
+原本我使用VScode編輯器，想省麻煩所以嘗試接續用VScode的jQuery插件，
+但&amp;hellip;..兩者系統似乎相差甚大，最後還是妥協用sublime，
+想等以後都熟悉了再去認識VScode。
+sublime的jQuery起手式寫法：(安裝插件後) 打上 ready
+會跳出</description>
+    </item>
+    
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://generaLra.github.io/blog/post-13/</link>
